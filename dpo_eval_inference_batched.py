@@ -1,7 +1,6 @@
 """
 Chef.LLM DPO Eval Inference - BATCHED
-78 test promptunu batch halinde (tek tek degil) uretir - tek tek
-uretime gore ~4.5x daha hizli.
+78 test promptunu batch halinde (tek tek degil) uretir.
 
 Kullanim:
   python dpo_eval_inference_batched.py <adapter_dir> <output_path>
